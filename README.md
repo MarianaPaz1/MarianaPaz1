@@ -4,8 +4,8 @@
 
 <div align="center">  🌱 Estou atualmente aprendendo <strong>Java e Python</strong>
 <br>
-📫 Entre em contato comigo <strong> mnp1807@hotmail.com</strong>
-  <br>
+<!-- 📫 Entre em contato comigo <strong> mnp1807@hotmail.com</strong>
+  <br> -->
 </div>
 
 
