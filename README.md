@@ -15,7 +15,7 @@
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
   <br>
-<a href="https://linkedin.com/in/linkedin.com/in/mariana-paz-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mariana-paz-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mariana-paz-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mariana-paz-" height="30" width="40" /></a>
 <a href="https://instagram.com/@marianapaz802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@marianapaz802" height="30" width="40" /></a>
 <a href="https://discord.gg/Mariana Paz #9368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mariana Paz #9368" height="30" width="40" /></a>
 </p>
