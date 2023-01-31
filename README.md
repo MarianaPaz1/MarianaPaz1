@@ -2,7 +2,7 @@
 
 <h3 align="center">Desenvolvedora Web Full Stack</h3>
 
-<div align="center">  🌱 Estou atualmente aprendendo <strong>Java e Python</strong>
+<div align="center">  🌱 Estou atualmente aprendendo <strong>Java e React</strong>
 <br>
 <!-- 📫 Entre em contato comigo <strong> mnp1807@hotmail.com</strong>
   <br> -->
